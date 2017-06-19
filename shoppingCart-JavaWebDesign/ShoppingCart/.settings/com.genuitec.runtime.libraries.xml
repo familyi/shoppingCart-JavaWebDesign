@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project>
+  <container path="com.genuitec.runtime.library/com.genuitec.struts_2.1">
+    <jar-attrs id="data/2.1/core/xwork-core-2.2.1.jar">
+      <attribute name="javadoc_location" value="http://struts.apache.org/release/2.2.x/struts2-core/apidocs/"/>
+      <attribute name="source-path-root"/>
+      <attribute name="source-path" value="\ShoppingCart\WebRoot\WEB-INF\lib\xwork-core-2.3.16.1.jar"/>
+    </jar-attrs>
+  </container>
+</project>
