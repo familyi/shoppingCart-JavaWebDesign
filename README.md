@@ -1,5 +1,5 @@
 # shoppingCart-JavaWebDesign
-##JavaWeb课程设计，使用Struts2完成购物车增、删、查、改功能
+## JavaWeb课程设计，使用Struts2完成购物车增、删、查、改功能
 
 1.1【数据表】
 1)	member表
